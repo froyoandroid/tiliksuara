@@ -245,3 +245,5 @@ Nama dan kode wilayah dibundel untuk penggunaan offline dari proyek [WILAYAH ole
 Memperbarui aset wilayah tidak otomatis mengubah nama wilayah pada data warga yang sudah disimpan.
 
 Kode aplikasi dilisensikan di bawah [GNU General Public License v3.0 atau versi yang lebih baru](LICENSE) (GPL-3.0-or-later). Komponen pihak ketiga di `third_party/` memakai lisensinya masing-masing.
+
+Proyek ini dikembangkan dengan bantuan AI.
